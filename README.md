@@ -10,7 +10,7 @@
 ## 本地安装测试地址:
   localhost:8080/test
 ## 测试数据库配置
-spring.datasource.driver=com.mysql.jdbc.Driver  
+spring.datasource.driver=com.mysql.jdbc.Driver  
 spring.datasource.url=jdbc:mysql://localhost:3306/demo?autoReconnect=true&amp;failOverReadOnly=false&amp;useUnicode=true&amp;characterEncoding=UTF-8  
 spring.datasource.username=root  
 spring.datasource.password=123456
